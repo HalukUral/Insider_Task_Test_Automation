@@ -9,7 +9,6 @@ This task involves three different types of QA testing: UI Automation Testing, L
 - After that I wrote my test scripts with the POM approach using Selenium-Java..
 - Framework supports different browser execution with using configuration.properties file
 - Tools : Java, Selenium, TestNG
-## Following scenarios are executed in this framework and failed ones are declared.
 
 ###  Verify Insider Home Page & "Careers" Page from the "Company" Menu:
 ```bash
